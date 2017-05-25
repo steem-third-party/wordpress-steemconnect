@@ -8,22 +8,4 @@ Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: 0.1
 
-This is an authentication plugin that uses steemconnect to connect with steem
-
-== Description ==
-
-This is an authentication plugin that uses steemconnect to connect with steem
-
-== Installation ==
-
-
-== Frequently Asked Questions ==
-
-
-== Screenshots ==
-
-
-== Changelog ==
-
-= 0.1 =
-- Initial Revision
+THIS PROJECT IS DEFUNCT.
